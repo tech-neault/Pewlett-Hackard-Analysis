@@ -21,6 +21,8 @@ Of Pewlett-Hackard's 300,024 employees, 30.13% (90,398 / 300,024) are currently 
 Based on the standards set by Pewlett-Hackard, there are 1,549 employees who have the potential to be a mentor.
 - This is only <b>1.71%</b> of the retirement-ready employees.
 
+If the company wishes to pursue a mentorship program, they will have to make accomodations for this low number.
+
 
 
 ## Summary
