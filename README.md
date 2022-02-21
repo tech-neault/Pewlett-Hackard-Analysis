@@ -9,8 +9,12 @@ Pewlett-Hackard, a company with more than 300,000 employees, has asked for an an
 #### Retirement
 Of Pewlett-Hackard's 300,024 employees, 30.13% (90,398 / 300,024) are currently eligible for retirement. 
 - Of those eligible, the job titles most frequent are Senior Engineer (29,415), Senior Staff (28,254), and Engineer (14,221). 
+
+
 ![retirebytitle](https://github.com/tech-neault/Pewlett-Hackard-Analysis/blob/main/Queries/RetiringByTitle.png)
 - Of those eligible, the departments most frequent are Development (23,008), Production (20,163), and Sales (14,083). 
+
+
 ![retirebydept](https://github.com/tech-neault/Pewlett-Hackard-Analysis/blob/main/Queries/RetireByDept.png)
 
 #### Mentorship Program 
